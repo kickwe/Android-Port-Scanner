@@ -1,0 +1,56 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+		<!-- Main theme colors -->
+		<!--   your app branding color for the app bar -->
+		<item name="android:colorPrimary">@color/primary</item>
+		<!--   darker variant for the status bar and contextual app bars -->
+		<item name="android:colorPrimaryDark">@color/primary_dark</item>
+		<!--   theme UI controls like checkboxes and text fields -->
+		<item name="android:colorAccent">@color/accent</item>
+		<item name="android:textColorPrimary">@color/primary_text</item>
+		<item name="android:textViewStyle">@style/MyTextViewStyle</item>
+		<item name="android:popupMenuStyle">@style/MyApp.PopupMenu</item>
+		<item name="android:itemBackground">@color/primary_dark</item>
+		<item name="android:alertDialogTheme">@style/MyAlertDialogTheme</item>
+		<item name="android:windowBackground">@color/primary_text</item>
+        
+			</style>
+	<style name="AppThemeMat" parent="android:Theme.Material.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+		<!-- Main theme colors -->
+		<!--   your app branding color for the app bar -->
+		<item name="android:colorPrimary">@color/primary</item>
+		<!--   darker variant for the status bar and contextual app bars -->
+		<item name="android:colorPrimaryDark">@color/primary_dark</item>
+		<!--   theme UI controls like checkboxes and text fields -->
+		<item name="android:colorAccent">@color/accent</item>
+		<item name="android:textColorPrimary">@color/primary_text</item>
+		<item name="android:textViewStyle">@style/MyTextViewStyle</item>
+		<item name="android:popupMenuStyle">@style/MyApp.PopupMenu</item>
+		<item name="android:itemBackground">@color/primary_dark</item>
+		<item name="android:alertDialogTheme">@style/MyAlertDialogTheme</item>
+		<item name="android:windowBackground">@color/primary_text</item>
+
+	</style>
+	<style name="MyBorderlessButton">
+		<!-- Set background drawable and text size of the buttons here -->
+		<item name="android:textColor">@color/primary_text</item>
+	</style>
+	<style name="MyTextViewStyle" parent="android:Widget.TextView">
+		<item name="android:textColor">@color/primary_text</item>
+		<item name="android:textStyle">bold</item>
+	</style>
+	<style name="MyApp.PopupMenu" parent="Widget.AppCompat.Light.PopupMenu">
+        <item name="android:popupBackground">@color/primary_dark</item>
+    </style>
+	<style name="MyAlertDialogTheme">
+		<item name="android:windowBackground">@color/primary_dark</item>
+		<item name="android:windowIsFloating">true</item>
+		<item name="android:buttonBarButtonStyle">@style/MyBorderlessButton</item>
+		
+		
+		</style>
+</resources>

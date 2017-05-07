@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "636342244124",
+    "firebase_url": "https://opens-150912.firebaseio.com",
+    "project_id": "opens-150912",
+    "storage_bucket": "opens-150912.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:636342244124:android:96ec08784d20a9ad",
+        "android_client_info": {
+          "package_name": "com.nokshaserver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "636342244124-0vs0ac73ot9ltvl8ao8j07u67ag5882f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjchULN9JdVvjd3GINklz3r1kEgJOgSPA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:636342244124:android:b55370dcfbbd5966",
+        "android_client_info": {
+          "package_name": "com.kickwe.port.scanner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "636342244124-0vs0ac73ot9ltvl8ao8j07u67ag5882f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjchULN9JdVvjd3GINklz3r1kEgJOgSPA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

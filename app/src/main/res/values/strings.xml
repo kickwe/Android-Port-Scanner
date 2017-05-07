@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Port Scanner</string>
+	<string name="banner_ad_unit_id">ca-app-pub-6330978291685189/9582894754</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+</resources>
